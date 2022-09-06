@@ -1,0 +1,32 @@
+{
+  // editor
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnType": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "editor.rulers": [
+    80,
+    100,
+    120
+  ],
+  // files
+  "files.eol": "\n",
+  "files.encoding": "utf8",
+  "files.insertFinalNewline": false,
+  // barrelr
+  "barrelr.lineEnding": "LF",
+  "barrelr.useSemiColons": false,
+  "barrelr.useDoubleQuotes": false,
+  // typescript
+  "typescript.format.semicolons": "remove",
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.preferences.useAliasesForRenames": true
+}
